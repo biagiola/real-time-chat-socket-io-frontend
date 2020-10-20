@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import './Input.css'
+import './Input.css';
 
 const Input = ({ setMessage, sendMessage, message }) => (
   <form className="form">
@@ -16,4 +16,4 @@ const Input = ({ setMessage, sendMessage, message }) => (
   </form>
 )
 
-export default Input
+export default Input;
